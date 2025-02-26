@@ -24,7 +24,7 @@ This project is a simple **Caesar Cipher** encryption and decryption tool built 
 ### Steps to Run the Program:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher-gui.git
+   https://github.com/asAkhilesh/ceasor-cipher.git
    cd caesar-cipher-gui
    ```
 2. Run the script:
